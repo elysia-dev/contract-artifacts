@@ -13,5 +13,5 @@ yarn add @elysia-dev/contract-artifacts
 ```
 import data from '@elysia-dev/contract-artifacts/artifacts/contracts/Connector.sol/Connector.json';
 
-console.log(data.artifact);
+console.log(data.bytecode);
 ```
