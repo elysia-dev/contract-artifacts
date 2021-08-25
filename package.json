@@ -1,6 +1,6 @@
 {
   "name": "@elysia-dev/contract-artifacts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/elysia-dev/contract-artifacts.git",
   "author": "donguk.seo <donguk.seo@modori.io>",
   "license": "MIT"
